@@ -1,0 +1,14 @@
+{
+  "name": "ung-password-portal-app",
+  "version": "0.1.0",
+  "description": "An electron app to pull up the UNG password portal",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "MtacMinor",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
